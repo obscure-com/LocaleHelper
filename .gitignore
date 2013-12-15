@@ -1,0 +1,5 @@
+mobile/ios/build
+.*
+*.zip
+*.xcuserdatad
+*.xcworkspace
